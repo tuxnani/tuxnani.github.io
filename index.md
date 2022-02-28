@@ -1,10 +1,11 @@
 # Skillset
-1. Python (Django, Flask, Fastapi)
-2. ETLs
-3. SQL (Mysql, Snowflake)
-4. NoSQL(Mongodb)
-5. Airflow
-6. AWS (S3, Sagemaker)
+1. Python
+2. Frameworks (Django, Flask, Fastapi)
+3. ETLs
+4. SQL (Mysql, Snowflake)
+5. NoSQL(Mongodb)
+6. Airflow
+7. AWS (S3, Sagemaker)
 
 
 # WORK EXPERIENCE
