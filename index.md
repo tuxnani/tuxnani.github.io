@@ -20,10 +20,6 @@ Hyderabad
 6. Supported implementation and active monitoring of controls and programs for smooth running of app
 
 
-## Teach For India - Teaching Fellow
-2018 - 2020
-1. Teaching Math, Science to high school students
-
 ## Wikipedia India Program - Program Officer
 December 2013 - January 2018
 Bengaluru
