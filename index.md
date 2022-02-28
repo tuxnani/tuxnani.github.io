@@ -1,3 +1,12 @@
+# Skillset
+1. Python (Django, Flask, Fastapi)
+2. ETLs
+3. SQL (Mysql, Snowflake)
+4. NoSQL(Mongodb)
+5. Airflow
+6. AWS (S3, Sagemaker)
+
+
 # WORK EXPERIENCE
 ## Mobius Development Studio - Machine Learning Engineer
 December 2020 - current
